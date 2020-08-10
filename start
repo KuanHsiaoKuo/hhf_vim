@@ -2,4 +2,4 @@ source ~/.vim/conf/basic
 source ~/.vim/conf/fold_break
 source ~/.vim/conf/leader_key
 source ~/.vim/conf/tab_key
-source ~/.vim/conf/cscope_conf
+"source ~/.vim/conf/cscope_conf

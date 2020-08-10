@@ -14,4 +14,4 @@ nmap <Leader>f :find<cr>
 "strip all trailing whitespace in the current file
 "nnoremap <leader>W :%s/\s\+$//<cr>:let @/=''<CR>
 " leader+o配置可以打开tabedit
-nmap <Leader>o :tabedit
+nmap <Leader>o :tabedit 
